@@ -1,1 +1,1 @@
- An elementary chatbot for suitable customer interaction application
+ An Elementary Chatbot for suitable Customer Interaction Application
